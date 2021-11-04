@@ -1,4 +1,4 @@
-# NOTE: You can view the results of my most impressive project on the [ATL-Foodie](https://atl-foodie-page.herokuapp.com) website.
+# SPECIAL ANNOUNCEMENT: You can view the results of my most impressive project on the [ATL-Foodie](https://atl-foodie-page.herokuapp.com) website.
 ### I worked as a part of a group for the Georgia Tech/Trilogy Data Analysis Bootcamp to complete this project. 
 ### We used Python/Flask & HTML/JS/CSS to build the web dashboard.
 * The website is reliably deployed using Heroku.
