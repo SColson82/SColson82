@@ -8,7 +8,7 @@
 
 > ## 👩🏻‍🔬 Sharon Colson
 > ## ✉ sharon.colson@gmail.com
-> ## 🔗https://www.linkedin.com/in/sharon-colson-515222210/ 
+> ## 🔗https://www.linkedin.com/in/sharon-colson
 > ## 🤖 Data Scientist, Analyst, Explorer
 > ## 🌎 Remote, Cookeville, TN, United States
 
