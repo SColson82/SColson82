@@ -1,22 +1,17 @@
-# NOTE: You can view the results of my most impressive full-stack project on the [Landscape Supply App](https://landscapesupply.app) website.
-### I wrote the iOS/Android app in React Native.
-### I used Python/Flask & HTML/JS/CSS to build the web dashboard and back-end api's.
-### I hosted the cloud infrastructure & authentication for this project on the Google Cloud Platform:
-* The website is reliably deployed on Google App Engine.
-* The database is securely housed in Google Firestore.
+# NOTE: You can view the results of my most impressive project on the [ATL-Foodie](https://atl-foodie-page.herokuapp.com) website.
+### I worked as a part of a group for the Georgia Tech/Trilogy Data Analysis Bootcamp to complete this project. 
+### We used Python/Flask & HTML/JS/CSS to build the web dashboard.
+* The website is reliably deployed using Heroku.
+* The database is housed using SQLite.
 *****
 *****
 
-> ## 👤 Ryan Zernach
-> ## ✉️ Ryan@Zernach.com
-> ## 🤖 Data Science Tutor, Mobile App Developer, Full-Stack Web Dev
-> ## 🇺🇸 Remote, Miami Beach, Florida, United States
-> 
-> [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
-> [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Linkedin_Profile.png" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
-> 
-> [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Github_Account.png" alt="alt text" width="260" height="79">](https://github.com/zernach)
-> [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Official_Resume.png" alt="alt text" width="260" height="79">](https://zernach.github.io/resume/Ryan_Zernach_Resume.pdf)
+> ## 👩🏻‍🔬 Sharon Colson
+> ## ✉ sharon.colson@gmail.com
+> ## 🔗https://www.linkedin.com/in/sharon-colson-515222210/ 
+> ## 🤖 Data Scientist, Analyst, Explorer
+> ## 🌎 Remote, Cookeville, TN, United States
+
 
 *****
 *****
@@ -26,8 +21,6 @@
 
 > ### Quickly Learns New Tools & Techniques
 > * Fluent in Python / Flask Web Development
-> * iOS / Android Mobile Apps (React Native)
-> * Creating & Managing Back-End API’s
 > * Websites in HTML / CSS / JavaScript
 > * Dashboards & Data Visualizations
 > * Managing SQL & NoSQL Databases
@@ -35,29 +28,29 @@
 > * Machine Learning Pro
 > * Google Cloud & AWS
 > * Webscraping Wizard
-> * Cloud-Computing
 > * and more...
  
  
 *****
 *****
-# [PORTFOLIO PROJECTS](https://ryan.zernach.com/portfolio/)
+# [PORTFOLIO PROJECTS](https://github.com/SColson82/Earthquake_Visualization) -- Interactive visualization of Earthquake occurences using Leaflet and data collected from the USGS API. 
 *****
 *****
 
 ### Links to Additional Details in Project Titles
 
-> ### [Landscape Supply App](https://landscapesupply.app/) — iOS/Android App & Online Web Dashboard to Buy/Sell Landscape Supplies
-> * For 3-months part-time, I wrote the iOS/Android app in React Native & built the web dashboard
-> * Used Python/Flask & HTML/JS/CSS to build the web dashboard and back-end api's
-> * Hosted the cloud infrastructure & authentication for this project on the Google Cloud Platform
+> ### [ATL-Foodie](https://atl-foodie-page.herokuapp.com) — Analysis of restaurant ratings in the Atlanta, GA area using the Yelp Academic Dataset. 
+> * This was a 2 week group project for the Georgia Tech/Trilogy Data Analysis Bootcamp.
+> * Used Python/Flask & HTML/JS/CSS to build the web dashboard. 
+> * My part in this was deployment through the Heroku application; ETL of the dataset from Yelp zip file to SQLite database; collaborating on the Map and Ratings pages. 
 > 
-> ### [ADP Gym Mobile iOS/Android App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
-> * Listened to client, and then designed and developed the cloud infrastructure for this project
-> * Designed and developed this Typescript React Native Expo mobile app in nine weeks (part-time)
-> * Custom-built a companion Python Flask web app for gym members to securely pay their trainers
+> ### [Car-ETL](https://github.com/SColson82/Car-ETL) — Postgres database of vehicle-for-sale listings webscraped from Auto.com through API calls. 
+> * Worked with a group of 3 others to over a 1 week period to create a Postgres database. 
+> * Started with a customer dataset from Kaggle which included factors important in determining which vehicle a customer might be interested in (IE: family size, income, careertype).
+> * Webscraped vehicle listings from [Autolist.com](https://www.autolist.com) and merged these with features listed through [US Fuel Economy](https://www.fueleconomy.gov/feg/download.shtml) to create a dataset that could be manipulated using Postgres to determine which customers should receive notifications for specific vehicles.
+> * My part in this was collection of the vehicle Data; ETL on the dataset; deployment to the database. 
 > 
-> ### [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, & Discover New Books
+> ### [Covid Vaccine Analysis](https://github.com/SColson82/Covid-Data-Analysis-Project) — 
 > 
 > * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
 > * Practiced CI/CD via blue/green RESTful Flask microservices on AWS EB to facilitate JSON post requests
@@ -147,3 +140,14 @@
 > * Critical Thinking Skills
 > * Capacity to Research
 > * Task Management
+
+
+I am a Data Analyst with a passion to help others.
+
+I am finishing the Trilogy/Georgia Tech bootcamp for Data Analysis in November 2021 with an A+ and have classroom-level experience in Python and SQL languages; SQL and NoSQL databases; ETL process; JavaScript interactive visualizations and dashboards; Tableau; and Machine Learning.
+
+Currently, I am most proud of an Analysis of the Atlanta, GA area restaurant ratings using the Yelp Academic Dataset. To display this analysis, my team and I used Heroko application deployment. It can be viewed at https://atl-foodie-page.herokuapp.com.
+
+My personal github is https://github.com/SColson82 in which you may view all of the projects that I have worked on since beginning this journey.
+
+I love what I am learning and I am passionate about leaving the world a better place than it was when I came in to it. Using Data Science I look forward to making this passion my profession.
