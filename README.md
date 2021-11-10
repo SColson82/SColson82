@@ -1,5 +1,5 @@
 # SPECIAL ANNOUNCEMENT: You can view the results of my most impressive project on the [ATL-Foodie](https://atl-foodie-page.herokuapp.com) website.
-### I worked as a part of a group for the Georgia Tech/Trilogy Data Analysis Bootcamp to complete this project. 
+### I worked as a part of a group for the Georgia Tech Data Analysis Bootcamp to complete this project. 
 ### We used Python/Flask & HTML/JS/CSS to build the web dashboard.
 * The website is reliably deployed using Heroku.
 * The database is housed using SQLite.
@@ -56,42 +56,6 @@
 > * Collected and visualized data pertaining to new Covid Cases and Vaccination counts using Matplotlib and Seaborn. 
 > * My part in this project was collaboration in transforming the data and creating visualizations and creating the README. 
 
-
-*****
-*****
-# EDUCATION
-*****
-*****
-
-> ### Chemistry and Mathematics August 2001 – December 2005
-> #### Tennessee Technological University, Cookeville, TN 
-> ●	Calculus I, Calculus II, Calculus III; Environmental, Analytical, Organic, Inorganic, Physical Chemistry
-> 
-
-*****
-*****
-# CERTIFICATES
-*****
-*****
-
-> * Trilogy/Georgia Tech Data Analytics Bootcamp, June-November 2021
-
-*****
-*****
-# EXPERIENCE
-*****
-*****
-
-
-> ### ● [Putnam County Clerk and Master](https://putnamcountytn.gov/clerk-and-master)
-> * Deputy Clerk: Cookeville, TN, May 2018 - Present
-> * **Lessons Learned** - team mindset to work with others in a close capacity to serve. 
-> 
-> ### ● [Averitt Express](https://www.averittexpress.com/)
-> * Cargo Claim Investigator: resolved cargo claims based on customer contract, Averitt Rules Tariff and Federal Law Statues, Cookeville, TN, May 2017 – May 2018
-> * Disposition and Misdelivery Specialist (Trouble Shipment Resolution): worked with customers and service centers to resolve routing obstacles and asit in expediting shipment delivery, Cookeville, TN, January 2011 - May 2017
-> * Customer Service Specialist: resolve minor shipment issues such as scheduling pickups and tracing, Cookeville, TN, May 2010 - January 2011
-> * **Lessons Learned** versatility and flexibility to determine and actualize what is best for both customer and business. 
 
 *****
 *****
