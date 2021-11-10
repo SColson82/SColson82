@@ -13,24 +13,7 @@
 > ## 🌎 Remote, Cookeville, TN, United States
 
 
-*****
-*****
-# MY MOST VALUABLE TECH STACK
-*****
-*****
 
-> ### Quickly Learns New Tools & Techniques
-> * Fluent in Python / Flask Web Development
-> * Websites in HTML / CSS / JavaScript
-> * Dashboards & Data Visualizations
-> * Managing SQL & NoSQL Databases
-> * Typescript JS & Node.js
-> * Machine Learning Pro
-> * Google Cloud & AWS
-> * Webscraping Wizard
-> * and more...
- 
- 
 *****
 *****
 # [PORTFOLIO PROJECTS](https://github.com/SColson82/Earthquake_Visualization) -- Interactive visualization of Earthquake occurences using Leaflet and data collected from the USGS API. 
@@ -57,22 +40,3 @@
 > * My part in this project was collaboration in transforming the data and creating visualizations and creating the README. 
 
 
-*****
-*****
-# Additional Qualities
-*****
-*****
-
-> * Versatility to Do Whatever Benefits My Team
-> * Customer/User/Client Centered Mindset
-> * Ability to Ask the Right Questions
-> * Desire to Never Stop Learning
-> * Intuition to Set Goals/Plans
-> * Clarity of Communication
-> * Team-Building Aptitude
-> * Humility to Ask for Help
-> * Results-Driven Attitude
-> * Disciplined & Focused
-> * Critical Thinking Skills
-> * Capacity to Research
-> * Task Management
