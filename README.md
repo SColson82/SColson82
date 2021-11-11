@@ -16,7 +16,7 @@
 
 *****
 *****
-# [PORTFOLIO PROJECTS](https://github.com/SColson82/Earthquake_Visualization) -- Interactive visualization of Earthquake occurences using Leaflet and data collected from the USGS API. 
+# [PORTFOLIO PROJECT](https://github.com/SColson82/Earthquake_Visualization) — Interactive visualization of Earthquake occurences using Leaflet and data collected from the USGS API. 
 *****
 *****
 
