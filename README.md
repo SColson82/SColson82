@@ -27,7 +27,7 @@
 > * Used Python/Flask & HTML/JS/CSS to build the web dashboard. 
 > * My part in this was deployment through the Heroku application; ETL of the dataset from Yelp zip file to SQLite database; collaborating on the Map and Ratings pages. 
 > 
-> ### [Car-ETL](https://github.com/SColson82/Car-ETL) — Postgres database of vehicle-for-sale listings webscraped from Auto.com through API calls. 
+> ### [Car-ETL](https://github.com/SColson82/Car-ETL) — Postgres database of vehicle-for-sale listings web-scraped from Auto.com through API calls. 
 > * Worked with a group of 3 others to over a 1 week period to create a Postgres database. 
 > * Started with a customer dataset from Kaggle which included factors important in determining which vehicle a customer might be interested in (IE: family size, income, careertype).
 > * Webscraped vehicle listings from [Autolist.com](https://www.autolist.com) and merged these with features listed through [US Fuel Economy](https://www.fueleconomy.gov/feg/download.shtml) to create a dataset that could be manipulated using Postgres to determine which customers should receive notifications for specific vehicles.
