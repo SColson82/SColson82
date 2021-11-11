@@ -33,7 +33,7 @@
 > * Webscraped vehicle listings from [Autolist.com](https://www.autolist.com) and merged these with features listed through [US Fuel Economy](https://www.fueleconomy.gov/feg/download.shtml) to create a dataset that could be manipulated using Postgres to determine which customers should receive notifications for specific vehicles.
 > * My part in this was collection of the vehicle Data; ETL on the dataset; deployment to the database. 
 > 
-> ### [Covid Vaccine Analysis](https://github.com/SColson82/Covid-Data-Analysis-Project) — Analized 30 days of vaccine and new case data to determine the current effects that vaccinations were having on new covid case numbers. 
+> ### [Covid Vaccine Analysis](https://github.com/SColson82/Covid-Data-Analysis-Project) — Analyzed 30 days of vaccine and new case data to determine the current effects that vaccinations were having on new Covid case numbers.
 > 
 > * This project was completed as part of a group of 3 for the Georgia Tech/Trilogy Data Analysis Bootcamp.
 > * Collected and visualized data pertaining to new Covid Cases and Vaccination counts using Matplotlib and Seaborn. 
