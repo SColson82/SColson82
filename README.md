@@ -1,15 +1,12 @@
-# SPECIAL ANNOUNCEMENT: You can view the results of my most impressive project on the [ATL-Foodie](https://atl-foodie-page.herokuapp.com) website.
-### I worked as a part of a group for the Georgia Tech Data Analysis Bootcamp to complete this project. 
-### We used Python/Flask & HTML/JS/CSS to build the web dashboard.
-* The website is reliably deployed using Heroku.
-* The database is housed using SQLite.
+# What I'm working on now: You can view my most recent project work at: [Exploring Various Machine Learning Classifiers Using the Iris Dataset](https://github.com/SColson82/DataMining_AI_Spring24) website.
+### This began as the introduction tutorial in a class. I've added to it so that it may be used as a reference for classification problems by others who are new to machine learning. 
 *****
 *****
 
 > ## 👩🏻‍🔬 Sharon Colson
 > ## ✉ sharon.colson@gmail.com
 > ## 🔗https://www.linkedin.com/in/sharon-colson
-> ## 🤖 Data Scientist, Analyst, Explorer
+> ## 🤖 Research Computing and Data Facilitator
 > ## 🌎 Remote, Cookeville, TN, United States
 
 
